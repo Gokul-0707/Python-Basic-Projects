@@ -35,6 +35,6 @@ while True:
         print("Thank You!")
         break
 
-else:
-    print("Invalid")
+    else:
+        print("Invalid")
     
